@@ -3030,7 +3030,7 @@ table.alt tfoot {
 }
 
 .wrapper.style2 {
-    background-color: #5052b5;
+    background-color: #493382;
 }
 
 .wrapper.style2-alt {
@@ -3038,8 +3038,8 @@ table.alt tfoot {
 }
 
 .wrapper.style3 {
-    background: rgb(64,39,127);
-    background: linear-gradient(48deg, rgba(64,39,127,1) 0%, rgba(151,0,183,1) 100%);
+    background: rgb(64, 39, 127);
+    background: linear-gradient(48deg, rgba(64, 39, 127, 1) 0%, rgba(151, 0, 183, 1) 100%);
 }
 
 .wrapper.style3-alt {
